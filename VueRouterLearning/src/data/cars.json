@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "BMW",
+        "price": 15000,
+        "year": 2010,
+        "contact": {
+            "dealer": "John",
+            "phone": "000-000-0000"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Audi",
+        "price": 20000,
+        "year": 2011,
+        "contact": {
+            "dealer": "Ed",
+            "phone": "111-111-1111"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Mercedes",
+        "price": 25000,
+        "year": 2012,
+        "contact": {
+            "dealer": "Jane",
+            "phone": "222-222-2222"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Toyota",
+        "price": 10000,
+        "year": 2009,
+        "contact": {
+            "dealer": "Tom",
+            "phone": "333-333-3333"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Honda",
+        "price": 12000,
+        "year": 2008,
+        "contact": {
+            "dealer": "Harry",
+            "phone": "444-444-4444"
+        }
+    }
+]
